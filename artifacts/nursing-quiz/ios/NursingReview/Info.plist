@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>nursing-quiz</string>
-          <string>com.healinghandshc.nursing-quiz-master</string>
+          <string>com.healinghandshc.nursingquizmaster</string>
         </array>
       </dict>
     </array>

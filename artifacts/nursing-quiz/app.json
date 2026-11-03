@@ -15,7 +15,7 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.healinghandshc.nursing-quiz-master"
+      "bundleIdentifier": "com.healinghandshc.nursingquizmaster"
     },
     "android": {},
     "web": {
